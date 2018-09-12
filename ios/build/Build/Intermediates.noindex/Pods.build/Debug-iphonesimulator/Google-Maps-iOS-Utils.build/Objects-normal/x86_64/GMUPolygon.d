@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Google-Maps-iOS-Utils/src/Geometry/Model/GMUPolygon.m \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Target\ Support\ Files/Google-Maps-iOS-Utils/Google-Maps-iOS-Utils-prefix.pch \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Google-Maps-iOS-Utils/src/Geometry/Model/GMUPolygon.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GoogleMaps.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorBuilding.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorLevel.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAddress.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMapsBase/GoogleMapsBase.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMapsBase/GMSCompatabilityMacros.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMapsBase/GMSCoordinateBounds.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMapsBase/GMSDeprecationMacros.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCALayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCameraPosition.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCameraUpdate.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCoordinateBounds+GoogleMaps.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSProjection.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGeocoder.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGeometryUtils.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPath.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorDisplay.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapLayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapStyle.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapView+Animation.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapView.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSUISettings.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMutablePath.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSServices.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCircle.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSOverlay.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGroundOverlay.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMarker.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMarkerLayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPolygon.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPolyline.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSSyncTileLayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSTileLayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSURLTileLayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSOrientation.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanorama.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaCamera.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaCameraUpdate.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaLayer.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaLink.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaService.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaView.h \
+  /Users/maceweb/Documents/Mith/React/PickupApp_Old/ios/Pods/Google-Maps-iOS-Utils/src/Geometry/Model/GMUGeometry.h
